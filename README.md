@@ -1,8 +1,14 @@
 # flutter_application_4
 
-A new Flutter project.
+Objek Wisata Temanggung
 
-## Getting Started
+Created by Widigda Rahmamukti
+
+NIM : 3.34.21.1.24
+Kelas : IK-2B
+Angkatan : 2021
+
+![Screenshot_1668065662](https://user-images.githubusercontent.com/117274670/201028172-57a11538-70d0-4df2-a515-3c857178cea0.png)
 
 This project is a starting point for a Flutter application.
 
