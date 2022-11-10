@@ -1,12 +1,11 @@
 # flutter_application_4
 
-Objek Wisata Temanggung
+Tempat Wisata Temanggung
 
 Created by Widigda Rahmamukti
-
-NIM : 3.34.21.1.24
-Kelas : IK-2B
-Angkatan : 2021
+- NIM : 3.34.21.1.24
+- Kelas : IK-2B
+- Angkatan : 2021
 
 ![Screenshot_1668065662](https://user-images.githubusercontent.com/117274670/201028172-57a11538-70d0-4df2-a515-3c857178cea0.png)
 
